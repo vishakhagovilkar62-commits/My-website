@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="mr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>माझी पहिली वेबसाइट</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f2f2f2;
+      color: #333;
+    }
+    header {
+      background: #0066cc;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #333;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 20px;
+      text-align: center;
+    }
+    footer {
+      background: #222;
+      color: #aaa;
+      text-align: center;
+      padding: 15px;
+      margin-top: 20px;
+    }
+    button {
+      margin-top: 15px;
+      background: #0066cc;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #004c99;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🚀 माझ्या वेबसाइटवर स्वागत</h1>
+    <p>ही माझी पहिली GitHub Pages वेबसाइट आहे</p>
+  </header>
+
+  <nav>
+    <a href="#home">Home</a>
